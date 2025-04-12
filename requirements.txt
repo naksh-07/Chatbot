@@ -1,0 +1,4 @@
+﻿python-dotenv==1.0.1
+requests==2.31.0
+groq==0.15.0
+jsonalias==0.1.1
